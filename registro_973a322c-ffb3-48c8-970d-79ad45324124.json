@@ -1,0 +1,17 @@
+{
+    "nombre": "RENE HUMBERTO",
+    "apellido": "PEREZ RYES",
+    "email": "renehperez@msn.com",
+    "token": "973a322c-ffb3-48c8-970d-79ad45324124",
+    "fecha_utc": "2026-11-16T03:02:24.590849+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.18.58.1-microsoft-standard-WSL2",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "5ac99f373823",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "7a458b83ac1098e5ac5418b19b0fa5d15467822d6da166d1ef4a5d1d66320cc2"
+}
